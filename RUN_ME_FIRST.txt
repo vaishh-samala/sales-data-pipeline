@@ -1,0 +1,8 @@
+SALES DATA PIPELINE - QUICK START
+
+1. Open a terminal in this folder.
+2. Run: python3 -m src.pipeline
+3. Run tests: python3 -m unittest discover -s tests -v
+
+No third-party packages are required (Python 3.10+ recommended).
+The generated database is data/sales.db and is intentionally ignored by Git.
